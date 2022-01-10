@@ -1,0 +1,23 @@
+{
+  "name": "nodetraining",
+  "version": "1.0.0",
+  "description": "Simple quiz project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danielenyata/nodeTraining.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danielenyata/nodeTraining/issues"
+  },
+  "homepage": "https://github.com/danielenyata/nodeTraining#readme",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "express-validator": "^6.14.0"
+  }
+}
