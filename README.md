@@ -1,9 +1,10 @@
 # nodeTraining
+
 Simple quiz project
 
 Requirements of the Project & Steps to work on project
 
-- Implement JWT authentication. 
+- Implement JWT authentication.
 - Manage users on the application (User modules)
 - Email notifications.
 - Ensure that all best practices are applied.
